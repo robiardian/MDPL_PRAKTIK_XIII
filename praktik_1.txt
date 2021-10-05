@@ -2,3 +2,5 @@ Pertemuan 1:
 -Perkenalan ,Kontrak Kuliah ,Penjelasan Silabus.
 -Pengantar
 -Life Cycle MDPL
+Pertemuan 2:
+-Praktik latihan 2
