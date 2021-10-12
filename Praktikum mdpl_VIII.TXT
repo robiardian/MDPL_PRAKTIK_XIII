@@ -1,0 +1,6 @@
+PERTEMUAN 3 
+- MERGE 
+- PULL REQUEST
+- MERGE CONFLICT
+- FORK
+------------------------------- OJO TURU ------------------------------------
